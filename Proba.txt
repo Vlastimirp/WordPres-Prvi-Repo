@@ -1,1 +1,3 @@
 Ovo je moj prvi tekst fajl
+Prvi red
+Drugi red
